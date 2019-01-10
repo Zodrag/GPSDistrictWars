@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "361772956293",
+    "firebase_url": "https://gps-district-wars.firebaseio.com",
+    "project_id": "gps-district-wars",
+    "storage_bucket": "gps-district-wars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361772956293:android:faf383014542e992",
+        "android_client_info": {
+          "package_name": "com.example.home.gpsdistrictwars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361772956293-d3o112364n53jsnbqpvefn5bl21nanfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2Yb_s88yFOZbjin42r7T16BaBK42pig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
